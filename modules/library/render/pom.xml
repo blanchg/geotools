@@ -24,7 +24,7 @@
   <!--     Module Description                                      -->
   <!-- =========================================================== -->
   <groupId>org.geotools</groupId>
-  <artifactId>gt-render</artifactId>
+  <artifactId>gt-render-custom-minestar</artifactId>
   <packaging>jar</packaging>
   <name>Render</name>
   
